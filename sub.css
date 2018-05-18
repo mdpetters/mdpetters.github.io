@@ -1,0 +1,42 @@
+@font-face {
+  font-family:Vollkorn;
+  src: url("Vollkorn-Regular.eot");
+  src: local("Vollkorn"), url("Vollkorn-Regular.woff") format("woff"),
+  url("/Vollkorn-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:Vollkorn;
+  font-weight: bold;
+  src: url("Vollkorn-Bold.eot");
+  src: local("Vollkorn"), url("Vollkorn-Bold.woff") format("woff"),
+  url("/Vollkorn-Bold.ttf") format("truetype");
+}
+
+*{
+  font-size: 1.0em;
+  line-height: 1.5em;
+  font-family: Vollkorn;
+}
+
+h3 {
+  font-size: 1.1em;
+  line-height: 1.5em;
+  font-family: Vollkorn;
+}
+
+h2 {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  font-family: Vollkorn;
+}
+
+h1 {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  font-family: Vollkorn;
+}
+
+audio {
+  width: 80%;
+}
