@@ -1,0 +1,727 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>NCSU Course Syllabus: MEA 217 - 01 - Introduction to Computing in the Geosciences</title>
+<style type="text/css">
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td{margin:0;padding:0;}
+
+body {line-height:1;color:#111;background: #fff;}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol{font-size:100%;}
+h1, h2, h3, h4, h5, h6{font-weight:700;}
+
+ol, ul{list-style:none;}
+
+address, caption, cite, code, dfn, th, var{font-style:normal;font-weight:400;}
+
+fieldset, img{border:0;}
+
+caption, th{text-align:left;}
+
+:focus {outline: 0;}
+
+table {border-collapse: collapse;border-spacing: 0;}
+
+q:before, q:after{content:'';}
+
+hr{border: 0;border-top: 1px solid #555;margin: 0;height: 1px;}
+
+/* 
+this is for IE7:
+hr{ position:relative; top:-7px;}
+hr + *{ position:relative; top:-14px; }
+*/
+body, a, input, textarea, button {
+	font-size: 10pt; 
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+}
+
+a { 
+	text-decoration: underline; 
+}
+
+a:link		{ color:#333333; }
+a:visited	{ color:#443333; }
+a:hover		{ color:#000000; }
+
+a:active	{ color:#443333; }
+
+a:focus	{ 
+	outline: dotted 1px black;
+    -moz-outline-style: dotted 1px black; 
+}
+
+.container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+	font-size: 10pt;
+	min-width:450px;
+}
+
+.banner {
+	padding:5px;
+	position: relative;
+	height: 96px;
+	margin-bottom: 5px;
+	background-color:#CC0000;
+	background-image:url(../images/header-background.gif);
+	background-position:top center;
+	background-repeat:no-repeat;
+	color:white;
+}
+
+.redbg {
+	padding:1px;
+	background-color:#CC0000;
+	color:white;
+}
+
+.redbg a {
+	color:white;
+}
+
+.subbanner {
+	background-color:transparent;
+	font-size:8pt;
+}
+
+.subbanner a {
+	font-size:8pt;
+}
+
+.powered_by {
+	line-height:8pt;
+	font-size:7pt;
+	letter-spacing:1px;
+	color:white;
+	position:absolute;
+	top:20px;
+	right:5px;
+}
+
+.powered_by a {
+	font-size:7pt;
+	letter-spacing:1px;
+	color:white;
+	text-decoration:underline;
+}
+
+.administered_by {
+	line-height:8pt;
+	font-size:7pt;
+	letter-spacing:1px;
+	color:white;
+	position:absolute;
+	top:5px;
+	right:5px;
+}
+
+.administered_by a {
+	font-size:7pt;
+	letter-spacing:1px;
+	color:white;
+	text-decoration:underline;
+}
+
+.header_help {
+	line-height:8pt;
+	font-size:8pt;
+	letter-spacing:1px;
+	color:white;
+	position:absolute;
+	font-weight:bold;
+	top:40px;
+	right:5px;
+}
+
+.header_help a {
+	font-size:8pt;
+	letter-spacing:1px;
+	color:white;
+	text-decoration:underline;
+}
+
+.ncsu_logo {
+	margin-left:8px;
+}
+
+.app_logo {
+	margin-left:10px;
+}
+
+.duap_logo {
+	margin-top:2px;
+	margin-left:10px;
+	margin-bottom:2px;
+}
+
+.login {
+	position:absolute;
+	bottom:12px;
+	line-height:11pt;
+	right:7px;
+	font-size:8pt;
+	text-align:right;
+	color:white;
+}
+
+.login a {
+	font-size:8pt;
+	text-decoration:none;
+	color:white;
+	padding:2px;
+}
+
+.login a:hover {
+	font-size:8pt;
+	text-decoration:underline;
+}
+
+.content_body {
+	padding: 0.5em;
+	width:90%;
+	margin:0 auto;
+}
+
+.footer {
+	clear: both;
+	padding: 5px;
+	margin-top: 3em;
+	margin-bottom: 1em;
+	color: #999999;
+	text-align: center;
+	font-size: 8pt;
+	line-height:10pt;
+	border-top: 1px solid #CE0000;
+}
+
+.footer a {
+	color: #999999;
+	font-size: 8pt;
+}
+
+
+.help_footer {
+	clear: both;
+	padding: 0.6em;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	border-top: 1px solid #CE0000;
+	border-bottom: 1px solid #CE0000;
+	color: #333333;
+	text-align: center;
+	font-size: 10pt;
+	font-weight:bold;
+	line-height:11pt;
+}
+
+.help_footer a {
+	color: #333333;
+	font-size: 10pt;
+	font-weight:bold;
+}
+
+.help_footer p {
+	padding:3px 0;
+}
+
+
+.date_time {
+	float:left;
+}
+
+span.plain {
+	font-weight:normal;
+}
+
+div.credits h1,h2 { 
+	margin-top:1em;
+}
+
+div.credits h1.top,h2.top { 
+	margin-top:0;
+}
+
+div.credits p {
+	margin:5px 0;
+	line-height:110%;
+}
+
+div.credits ul li {
+	padding:2px;
+	font-size: 9pt;
+	margin-left:1.3em;
+	list-style: disc;
+}
+
+div.credits ol li {
+	padding:2px;
+	font-size: 9pt;
+	margin-left:2.3em;
+	list-style: decimal;
+}
+
+div.cleardiv {
+	clear:both;
+	line-height:1px;
+	height:1px;
+}
+
+.icon {
+	vertical-align:middle;
+	height:16px;
+	width:16px;
+}
+
+.icon16 {
+	vertical-align:middle;
+	height:16px;
+	width:16px;
+}
+
+.icon12 {
+	vertical-align:middle;
+	height:12px;
+	width:12px;
+}
+
+a, input, textarea, button {
+	font-size: 9pt; 
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+}
+
+body {
+	font-size: 9pt; 
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	margin:1em;
+	padding:0.5em;
+}
+
+ul, ol {
+	margin:0;
+	margin-top:0.4em;
+	padding:0; 
+}
+
+ul {
+	margin-left:2em;
+}
+
+ol {
+	margin-left:2.5em;
+}
+
+li {
+	margin:0;
+	padding:0;
+}
+
+ul li {
+	list-style:disc;
+}
+
+ol li {
+	list-style: decimal;
+}
+
+p {
+	margin:0;
+	margin-top:0.4em;
+	padding:0; 
+}
+
+/*=======================================*/
+/* SECTION DIVS */
+/*=======================================*/
+
+div.section {
+	margin-left:1em;
+}
+
+/*=======================================*/
+/* TEXT DIVS */
+/*=======================================*/
+
+div.text {
+	margin:0.5em;
+	padding:0;
+	font-size:9pt;
+	line-height:12pt;
+}
+
+/*=======================================*/
+/* COURSE INFO DIV */
+/*=======================================*/
+
+div.course_info {
+	margin:0.5em;
+	padding:0;
+	font-size:11pt;
+	line-height:15pt;
+	font-weight:bold;
+}
+
+/*=======================================*/
+/* HEADINGS */
+/*=======================================*/
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight:bold;
+	background-color:#DDDDDD;
+	padding:0.3em;
+	margin-top:0.5em;
+	margin-bottom:0.1em;
+}
+
+h1 {
+	font-size:18pt;
+	border-top:solid 3px #222222;
+}
+
+h2 {
+	font-size:14pt;
+	border-top:solid 3px #777777;
+}
+
+h3 {
+	font-size:12pt;
+	border-top:solid 2px #777777;
+}
+
+h4 {
+	font-size:11pt;
+	border-top:solid 1px #777777;
+}
+
+h5 {
+	font-size:10pt;
+	border-top:solid 1px #777777;
+}
+
+h6 {
+	font-size:10pt;
+	border-top:solid 1px #777777;
+}
+
+/*=======================================*/
+/* HEADER AND FOOTER */
+/*=======================================*/
+
+.header {
+}
+
+.headerleft {
+	padding:0.6em;
+	padding-bottom:0.5em;
+	float:left;
+}
+
+.headerright {
+	padding:0.6em;
+	padding-bottom:0.5em;
+	text-align:right;
+	float:right;
+}
+
+.headerright a {
+	font-size:8pt;
+	font-weight:bold;
+	text-decoration:none;
+	margin:0;
+	margin-left:0.6em;
+	background-color:#EEEEEE;
+	border:solid 1px #EEEEEE;
+	padding:4px;
+	padding-bottom:5px;
+}
+
+.headerright a:hover {
+	text-decoration:underline;
+	background-color:#FFEEEE;
+	border:solid 1px #CD0000;
+}
+
+.footer {
+	margin-top:2em;
+	line-height:12pt;
+}
+
+/*=======================================*/
+/* LETTER GRADES TABLE */
+/*=======================================*/
+
+.letter_grades td {
+	padding:1px 4px;
+}
+
+.letter_grades td.l {
+	text-align:left;
+}
+
+.letter_grades td.c {
+	text-align:left;
+	padding:1px 3px 1px 7px;
+	font-weight:bold;
+}
+
+.letter_grades td.r {
+	text-align:right;
+}
+
+/*=======================================*/
+/* GRADE COMPONENTS TABLE */
+/*=======================================*/
+
+table.grade_components {
+	border:solid 1px black;
+	margin:0.5em 0;
+	width:90%;
+}
+
+table.grade_components thead {
+	padding:0;
+}
+
+table.grade_components thead th {
+	border:solid 1px black;
+	padding:5px;
+	vertical-align:middle;
+	font-size:10pt;
+	line-height:12pt;
+	font-weight:bold;
+	background-color:#FFFFFF;
+	text-align:center;
+}
+
+table.grade_components thead th.details {
+	background-color:#FFFFFF;
+	text-align:left;
+}
+
+table.grade_components tbody {
+	background-color:#EEEEEE;
+}
+
+table.grade_components tbody td {
+	border:solid 1px black;
+	padding:3px 4px;
+	text-align:left;
+	font-weight:bold;
+}
+
+table.grade_components tbody td.details {
+	font-weight:normal;
+}
+
+
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+
+				<div style="background-color:#FFFFAA;font-weight:bold;padding:1em;">
+			Note: This syllabus is incomplete.  Some content is yet to be determined.
+		</div>
+		</div>
+<h1>MEA 217 Course Syllabus</h1>
+<h2>MEA 217 &ndash; Introduction to Computing in the Geosciences</h2>
+<div class="course_info">
+<p>Section 01</p>
+<p>Fall 2020</p>
+<p>3 Credit Hours</p>
+</div>
+<h3>Course Description</h3>
+<div class="text">
+<p><span style="font-size: 13.3333px;">This course is for students with little or no programming experience. It provides students with </span>programming and problem solving skills using MATLAB with emphasis on the systematic development of algorithms and programs. Topics include Boolean math, data representation and types (array, vectors, strings, structures), evaluation of expressions, program control (iteration, functions), algorithm development (pseudo code, physical problem solving, numerical algorithms), basic MATLAB graphics, and limits of computing. Problems and projects are selected from the Geosciences. The course has no formal prerequisites. However, it is assumed that students are proficient in solving algebraic equations, non-calculus Physics problems, and operating a computer.</p>
+</div>
+<h3>Learning Outcomes</h3>
+<div class="text">
+<p>
+<ul>
+<li><span style="font-size: 13.3333px;">Demonstrate fluency in the use of procedural statements (assignments, conditional statements, loops, function calls) and arrays.</span></li>
+<li><span style="font-size: 13.3333px;">Design, code, test, and debug small MATLAB programs.</span></li>
+<li><span style="font-size: 13.3333px;">Create algorithms to solve mathematical problems.</span></li>
+<li><span style="font-size: 13.3333px;">Use basic numerical algorithms to process geoscience data.</span></li>
+<li><span style="font-size: 13.3333px;">Execute basic vector computations.</span></li>
+<li><span style="font-size: 13.3333px;">Demonstrate working familiarity with basic graphics tools.</span></li>
+</ul>
+</p>
+</div>
+<h3>Course Structure</h3>
+<div class="text">
+<p><span style="font-size: 13.3333px;">This course uses short lectures and programming activities. Short lectures are recorded and available through TopHat and/or youtube. The course meetings are via zoom. During course meetings students work in small peer groups on programming assignments. </span></p>
+</div>
+<h3>Instructors</h3>
+<div class="text">
+<b>Prof Markus D Petters</b> (mdpetter) - <i>Instructor</i><br /><b>Email:</b> <a href="mailto:mdpetter@ncsu.edu">mdpetter@ncsu.edu</a>
+<br /><b>Web Page:</b> <a href="https://mdpetters.github.io/">https://mdpetters.github.io/</a>
+<br /><b>Phone:</b> 919-515-7144
+<br /><b>Office Location:</b> Jordan Hall 5143
+<br /><b>Office Hours:</b> M/W 4:50-5:20
+
+</div>
+<div class="text">
+<b>Sabin Kasparoglu</b> (skaspar) - <i>Instructor</i><br /><b>Email:</b> <a href="mailto:skaspar@ncsu.edu">skaspar@ncsu.edu</a>
+<br /><b>Phone:</b> 919-515-7144
+<br /><b>Office Location:</b> Online
+<br /><b>Office Hours:</b> M/W 4:50-5:20
+
+</div>
+<h3>Course Meetings</h3>
+<div class="section">
+<h4>Lecture</h4>
+<div class="text">
+<b>Days:</b> MW
+<br /><b>Time:</b> 3:00 - 4:50
+<br /><b>Campus:</b> Main
+<br /><b>Location:</b> Zoom
+<br /><i>This meeting is required.</i>
+
+</div>
+</div>
+<h3>Course Materials</h3>
+<div class="section">
+<h4>Textbooks</h4>
+<div class="text">
+<p>None.</p>
+</div>
+<h4>Expenses</h4>
+<div class="text">
+<p>None.</p>
+</div>
+<h4>Materials</h4>
+<div class="text">
+<b>Personal Computer</b> - $500<br /><i>This material is required.</i>
+
+</div>
+</div>
+<h3>Transportation</h3>
+<div class="text">
+<p>This course will not require students to provide their own transportation. Non-scheduled class time for field trips or out-of-class activities is NOT required for this class.</p>
+</div>
+<h3>Safety &amp; Risk Assumptions</h3>
+<div class="text">
+<p>None.</p>
+</div>
+<h3>Grading</h3>
+<div class="section">
+<h4>Grade Components</h4>
+<div class="text">
+</div>
+<h4>Letter Grades</h4>
+<div class="text">
+			<div style="margin:1em"><strong>This Course uses Standard NCSU Letter Grading:</strong>
+				<table cellpadding="0" cellspacing="0" border="0" class="letter_grades" summary="The standard mapping of points to letter grades for this course.">
+					<tr><td class="r">97</td><td>&le;</td><td class="c"><strong>A+</strong></td><td>&le;</td><td>100</td></tr>
+					<tr><td class="r">93</td><td>&le;</td><td class="c"><strong>A</strong></td><td>&lt;</td><td>97</td></tr>
+					<tr><td class="r">90</td><td>&le;</td><td class="c"><strong>A-</strong></td><td>&lt;</td><td>93</td></tr>
+					<tr><td class="r">87</td><td>&le;</td><td class="c"><strong>B+</strong></td><td>&lt;</td><td>90</td></tr>
+					<tr><td class="r">83</td><td>&le;</td><td class="c"><strong>B</strong></td><td>&lt;</td><td>87</td></tr>
+					<tr><td class="r">80</td><td>&le;</td><td class="c"><strong>B-</strong></td><td>&lt;</td><td>83</td></tr>
+					<tr><td class="r">77</td><td>&le;</td><td class="c"><strong>C+</strong></td><td>&lt;</td><td>80</td></tr>
+					<tr><td class="r">73</td><td>&le;</td><td class="c"><strong>C</strong></td><td>&lt;</td><td>77</td></tr>
+					<tr><td class="r">70</td><td>&le;</td><td class="c"><strong>C-</strong></td><td>&lt;</td><td>73</td></tr>
+					<tr><td class="r">67</td><td>&le;</td><td class="c"><strong>D+</strong></td><td>&lt;</td><td>70</td></tr>
+					<tr><td class="r">63</td><td>&le;</td><td class="c"><strong>D</strong></td><td>&lt;</td><td>67</td></tr>
+					<tr><td class="r">60</td><td>&le;</td><td class="c"><strong>D-</strong></td><td>&lt;</td><td>63</td></tr>
+					<tr><td class="r">0</td><td>&le;</td><td class="c"><strong>F</strong></td><td>&lt;</td><td>60</td></tr>
+				</table>
+			</div></div>
+<h4>Requirements for Credit-Only (S/U) Grading</h4>
+<div class="text">
+<p>In order to receive a grade of S, students are required to take all exams and quizzes, complete all assignments, and earn a grade of C- or better. Conversion from letter grading to credit only (S/U) grading is subject to university deadlines. Refer to the Registration and Records calendar for deadlines related to grading. For more details refer to <a href="http://policies.ncsu.edu/regulation/reg-02-20-15">http://policies.ncsu.edu/regulation/reg-02-20-15</a>.</p>
+</div>
+<h4>Requirements for Auditors (AU)</h4>
+<div class="text">
+<p>Information about and requirements for auditing a course can be found at <a href="http://policies.ncsu.edu/regulation/reg-02-20-04">http://policies.ncsu.edu/regulation/reg-02-20-04</a>.</p>
+</div>
+<h4>Policies on Incomplete Grades</h4>
+<div class="text">
+<p>If an extended deadline is not authorized by the instructor or department, an unfinished incomplete grade will automatically change to an F after either (a) the end of the next regular semester in which the student is enrolled (not including summer sessions), or (b) the end of 12 months if the student is not enrolled, whichever is shorter. Incompletes that change to F will count as an attempted course on transcripts. The burden of fulfilling an incomplete grade is the responsibility of the student. The university policy on incomplete grades is located at <a href="http://policies.ncsu.edu/regulation/reg-02-50-3">http://policies.ncsu.edu/regulation/reg-02-50-3</a>.</p>
+</div>
+<h4>Late Assignments</h4>
+<div class="text">
+<p><span style="font-size: 13.3333px;">Late assignments will receive a 50% reduction in grade.</span></p>
+</div>
+<h3>Attendance Policy</h3>
+<div class="section">
+<p>For complete attendance and excused absence policies, please see <a href="http://policies.ncsu.edu/regulation/reg-02-20-03">http://policies.ncsu.edu/regulation/reg-02-20-03</a></p>
+<h4>Attendance Policy</h4>
+<div class="text">
+<p><span style="font-size: 13.3333px;">Attendance is mandatory.</span></p>
+</div>
+<h4>Absences Policy</h4>
+<div class="text">
+<p><span style="font-size: 13.3333px;">Since attendance is mandatory you cannot make up a quiz if you miss class. However, you will not be </span>penalized in case of a documented emergency absence or excused absence in which case you will be allowed a makeup exam. Examples that qualify for an excused absence are: 1) The student is away from campus representing an official university function, e.g. participating in a professional meeting, as part of a judging team, or athletic team. These students would typically be accompanied by a University faculty or staff member. 2) Required court attendance as certified by the Clerk of Court. 3) Religious observances as verified by Parents & Constituent Services (515-2441). For more information about a variety of religious observances, visit the Diversity Calendar Required military duty as certified by the student’s commanding officer.</p>
+</div>
+<h4>Makeup Work Policy</h4>
+<div class="text">
+<p><span style="font-size: 13.3333px;">If you missed a test or quiz and want to take a makeup exam you must claim either medical reasons </span>through written excuse by a physician or corresponding written documentation for excused absence. The written excuse should be provided at the earliest possible time, and no later than one week after the excuse expired.</p>
+</div>
+<h4>Additional Excuses Policy</h4>
+<div class="text">
+<p>None.</p>
+</div>
+</div>
+<h3>Academic Integrity</h3>
+<div class="section">
+<h4>Academic Integrity</h4>
+<div class="text">
+<p>Students are required to comply with the university policy on academic integrity found in the Code of Student Conduct found at <a href="http://policies.ncsu.edu/policy/pol-11-35-01">http://policies.ncsu.edu/policy/pol-11-35-01</a></p>
+<p><span style="font-size: 13.3333px;">Students are required to comply with the university policy on academic integrity found in the Code of </span>Student Conduct. Students should refer to theUniversity policy on academic integrity found in the Code of Student Conduct. It is the instructors understanding and expectation that the student’s signature on any test or assignment means that the student neither gave nor received unauthorized aid. Authorized aid on an assignment includes discussing the interpretation of the problem statement, sharing ideas or approaches for solving the problem, and explaining concepts involved in the problem. Any other aid would be unauthorized and a violation of academic integrity policy. Any computer work submitted must be completed on your own personal computer or from your own NC State account to avoid confusion about the origin of the file, and no sharing files in any way is allowed. All cases of academic misconduct will be submitted to the Office of Student Conduct. If you are found guilty of academic misconduct in the course, you will be on academic misconduct probation for the remainder of your years at NC State and may be required to report your violation on future professional school applications.</p>
+<p> </p>
+<p><span style="font-size: 13.3333px;">Cheating is the giving, taking, or presenting of information or material by a student that unethically or </span>fraudulently aids oneself or another person on any work which is to be considered in the determination of a grade or the completion of academic requirements or the enhancement of that student’s record or academic career. Cheating includes, but is not limited, to the following actions:</p>
+<p><span style="font-size: 13.3333px;">1. Copying from someone else’s assignment, examination, or other academic exercise;</span></p>
+<p><span style="font-size: 13.3333px;">2. Possessing, buying, selling, removing, receiving, or using, at any time or in any manner not </span>prescribed by the faculty member, any information related to an instrument of academic evaluation;</p>
+<p><span style="font-size: 13.3333px;">3. Using materials, equipment, or assistance in connection with an assignment, examination, or other </span>academic exercise which have not been authorized by the faculty member, including but not limited to, notes, calculator, or other technology;</p>
+<p><span style="font-size: 13.3333px;">4. Obtaining or attempting to obtain, in a dishonest manner, any material relating to a student’s </span>academic work;</p>
+<p><span style="font-size: 13.3333px;">5. Working with another or others in completing an assignment, examination, or other academic </span>exercise when the faculty member has required independent and unaided action;</p>
+<p><span style="font-size: 13.3333px;">6. Attempting to influence or change an academic evaluation, grade, or record by unfair means;</span></p>
+<p><span style="font-size: 13.3333px;">7. Permitting another individual to substitute for one’s self in an academic evaluation;</span></p>
+<p><span style="font-size: 13.3333px;">8. Marking or submitting an examination or evaluation material in a manner designed to deceive the </span>grading system;</p>
+<p><span style="font-size: 13.3333px;">9. Failing to comply with a specific condition of academic integrity which has been clearly announced </span>in a particular course;</p>
+<p><span style="font-size: 13.3333px;">10. Submitting, without prior permission of the faculty member, any work by a student which has at </span>any time been submitted in identical or similar form by that student in fulfillment of any other academic requirement at any institution;</p>
+<p><span style="font-size: 13.3333px;">11. Submitting of material in whole or part for academic evaluation that has been prepared by another </span>individual(s);</p>
+<p><span style="font-size: 13.3333px;">12. Submitting data which have been altered or contrived in such a way as to be deliberately </span>misleading; or</p>
+<p><span style="font-size: 13.3333px;">13. Providing false information to the University in any manner to achieve an unfair advantage, </span>enhance one’s record, or complete a requirement.</p>
+</div>
+<h4>Honor Pledge</h4>
+<div class="text">
+<p>Your signature on any test or assignment indicates "I have neither given nor received unauthorized aid on this test or assignment."</p>
+</div>
+</div>
+<h3>Digital Course Components</h3>
+<div class="text">
+<p>Students may be required to disclose personally identifiable information to other students in the course, via digital tools, such as email or web-postings, where relevant to the course. Examples include online discussions of class topics, and posting of student coursework. All students are expected to respect the privacy of each other by not sharing or using such information outside the course.</p>
+<p><strong>Digital Course Components:</strong> Digitial course components are on the TopHat and Moodle platform.</p>
+</div>
+<h3>Accommodations for Disabilities</h3>
+<div class="text">
+<p>Reasonable accommodations will be made for students with verifiable disabilities. In order to take advantage of available accommodations, students must register with the Disability Resource Office at Holmes Hall, Suite 304, Campus Box 7509, 919-515-7653. For more information on NC State’s policy on working with students with disabilities, please see the Academic Accommodations for Students with Disabilities Regulation (REG02.20.01) (<a href="https://policies.ncsu.edu/regulation/reg-02-20-01/">https://policies.ncsu.edu/regulation/reg-02-20-01/</a>).</p>
+</div>
+<h3>Non-Discrimination Policy</h3>
+<div class="text">
+<p>NC State provides equal opportunity and affirmative action efforts, and prohibits all forms of unlawful discrimination, harassment, and retaliation ("Prohibited Conduct") that are based upon a person's race, color, religion, sex (including pregnancy), national origin, age (40 or older), disability, gender identity, genetic information, sexual orientation, or veteran status (individually and collectively, "Protected Status"). Additional information as to each Protected Status is included in NCSU REG 04.25.02 (Discrimination, Harassment and Retaliation Complaint Procedure). NC State's policies and regulations covering discrimination, harassment, and retaliation may be accessed at <a href="http://policies.ncsu.edu/policy/pol-04-25-05">http://policies.ncsu.edu/policy/pol-04-25-05</a> or <a href="https://oied.ncsu.edu/divweb/">https://oied.ncsu.edu/divweb/.</a> Any person who feels that he or she has been the subject of prohibited discrimination, harassment, or retaliation should contact the Office for Equal Opportunity (OEO) at 919-515-3148.</p>
+</div>
+<h2>Course Schedule</h2>
+<div class="section">
+<p><b>NOTE:</b> The course schedule is subject to change.</p>
+<h3>Lecture MW 3:00 - 4:50 &mdash; Session 1 &mdash; TBD - TBD</h3>
+<div class="text">
+<p></p>
+</div>
+</div>
+
+			<div class="footer">
+				<div>&copy; 2020 <a href="http://www.ncsu.edu/">North Carolina State University</a></div>
+			</div>
+		</div>
+	</div>
+</body>
+<!-- Syllabus generated by Syllabus Tool on Sun, 19 Jul 2020 12:13:21 -0400 -->
+</html>
