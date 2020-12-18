@@ -2,10 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Open source software projects maintained by our group.
-nav: true
+description: Ongoing research projects.
+nav: false
 ---
-
 
 <div class="projects grid">
 

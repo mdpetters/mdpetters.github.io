@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://meas.sciences.ncsu.edu/people/mdpetter/">NC State University</a>. Professor. Campus Box 8208. markus_petters@ncsu.edu.
+description: <a href="https://meas.sciences.ncsu.edu/people/mdpetter/">NC State University</a>. Professor. 
 
 profile:
   align: right
