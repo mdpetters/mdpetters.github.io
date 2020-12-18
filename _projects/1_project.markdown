@@ -2,7 +2,6 @@
 title: " "
 description: A Julia package to perform Tikhonov regularization for small to moderate size problems.
 img: /assets/img/tikhonov.png
-permalink: RegularizationTools.jl/stable/
 importance: 1
 ---
 
