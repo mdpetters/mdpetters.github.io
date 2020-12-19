@@ -21,8 +21,8 @@ hesitate to contact us.*
 
 ### DAQ Systems
 
-A brief motivation for development of these DAQ systems is given in the abstract for a talk
-delivered at the 2018 annual conference of the American Association for Aerosol Research.
+A brief motivation for development of these DAQ systems is given in the [abstract](http://aaarabstracts.com/2019/viewabstract.php?pid=205) for a talk
+delivered at the 2019 annual conference of the American Association for Aerosol Research.
 
 **Professional societies and funding agencies are moving towards open data policies that 
 require publication of raw data and computer software used to generate results. 
@@ -48,6 +48,8 @@ auxiliary sensors and be adapted to build more elaborate programs controlling ta
 setups with complex duty cycles. The software design principles are general, portable to 
 several common programming languages, and can be applied to a wide range of instrument 
 automation scenarios.**
+
+The headers link to individual repositories hosted on GitHub.
 
 #### [Julia-AFRP-DataAcquisition](https://github.com/mdpetters/Julia-AFRP-DataAcquisition)
 

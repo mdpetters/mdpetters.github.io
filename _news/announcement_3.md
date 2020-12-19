@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-01-09
+date: 2020-07-31
 inline: true
 ---
 
-Dr. Maksim Islam is joining our group as a postdoc. Welcome!
+Congratulations to Alyssa Zimmerman for having her M.S. thesis paper accepted for publication in the journal Atmospheric Environment.
