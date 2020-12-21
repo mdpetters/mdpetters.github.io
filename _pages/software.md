@@ -11,7 +11,9 @@ We call this free software because the user is free. </b> </i>
 
 <i> To use free software is to make a political and ethical choice asserting the right to learn,
 and share what we learn with others. Free software has become the foundation of a learning 
-society where we share our knowledge in a way that others can build upon and enjoy. (Richard Stallman)</i> 
+society where we share our knowledge in a way that others can build upon and enjoy. </i> 
+
+--- <i>[Free Software Foundation](https://www.fsf.org/about/what-is-free-software)</i> 
 
 <br>
 

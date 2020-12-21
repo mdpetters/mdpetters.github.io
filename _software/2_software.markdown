@@ -20,7 +20,7 @@ to the sample slit. All other particles exit with the excess flow.
 is an annular capacitor. The column's properties are defined by the radii 
 $$r_1$$, $$r_2$$, the length of the column, $$l$$. Operation conditions are defined by the
 the electric potential $$v$$ applied across the annulus and the four flow rates: 
-sheath flow, $$q_{sh}$$, polydisperse aerosol flow $q_a$, excess flow, $$q_{ex}$$, and 
+sheath flow, $$q_{sh}$$, polydisperse aerosol flow $$q_a$$, excess flow, $$q_{ex}$$, and 
 monodisperse sample flow, $$q_{sa}$$. 
 
 #### Package Description
