@@ -91,6 +91,9 @@ collections:
   teaching2:
     output: true
     permalink: /teaching2/:path/
+  team:
+    output: true
+    permalink: /team/:path/
 
 news_limit: 5
 
