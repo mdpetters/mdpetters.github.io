@@ -1,0 +1,24 @@
+---
+layout: page
+title: " "
+description: Investigating the Influence of Particle Diameter on Viscosity
+img: /assets/img/nsf1.png
+importance: 2
+
+---
+
+#### **Laboratory Studies Investigating the Influence of Particle Diameter on Viscosity**
+
+- PI: Markus Petters
+- Source: National Science Foundation
+- Years: Jan 2021 -- December 2023
+- Graduate Students: **Your Name Here!**
+- Undergraduate Students: **Your Name Here!**
+
+**Overview.** Atmospheric particles between 10 and 100 nm in diameter play a central role in atmospheric chemistry by providing surface and volume for multiphase reactions to proceed. In many environments these particles are crystalline or glassy solids. As particle size approaches the molecular scale, strong curvature of the particle air interface leads to a depression of the melting point, known as the Gibbs-Thompson effect. This proposal seeks to quantify how particle diameter influences the crystalline solid-liquid and amorphous solid-liquid phase transitions. Particle-dimers will be created through coagulation. The temperature required to induce particle coalescence will be measured as a function of particle diameter between 10 and 100 nm. This temperature corresponds to the melting of a semi-solid with viscosity of \sim10^{6} Pa s. The measurements will be used to constrain the temperature dependence of viscosity and the glass transition temperature of the particles. Investigated compositions will include single component model systems and multi-component model blends, mimicking common atmospheric aerosol. The main objective of the work is to quantify the Gibbs-Thompson effect for amorphous viscous or glassy particles.
+
+**Intellectual Merit.** Knowledge of the particle phase state is critical for quantifying the chemistry occurring in the bulk or at the interface of particles. The critical diameter where nanoparticles transition from glass to liquid must be known. To date, no studies have systematically evaluated the Gibbs-Thompson effect for viscous or amorphous glassy solid particles, which are commonly observed in the atmosphere. The hypothesis of this work is that the glass transition temperature, and the temperature dependence of viscosity, mirrors the behavior predicted by the Gibbs-Thompson equation for crystalline substances. An inverse proportionality between the particle diameter and glass-transition temperature is expected. The measurements involving multi-component blends will also contribute toward the validation of models that predict the glass-transition temperature and fragility of these systems. Although modeling frameworks have advanced in this area, experimental data remain scarce. This proposal will produce new data and use these data to test existing state-of-the science predictions of particle phase state.
+
+**Broader Impacts.** The project will support the training of graduate students at the MS and PhD level. Two funded summer projects involving undergraduate researchers are included. Undergraduate research is well known to improve student achievement, increase persistence of students to complete a STEM degree, and enhance the students' identification as scientists. Outreach will involve holding four scholastic chess/science tournaments at NC State, specifically recruiting players from after-school programs that serve underrepresented groups. Playing in scholastic chess tournaments has been shown to lead to substantial gains in math and reading standardized test scores. Chess skill strongly correlates with practice, which can lead to a virtuous cycle of study and improvement. The scholastic tournaments will bring students to campus and simultaneously expose them to the science and to role models. Early exposure to role models has been identified with improved persistence in education. Combined these activities may lead to increased retention of underrepresented groups in after-school chess programs, improved academic performance, and increased participation in college education after the students graduate from school.
+The overall goal of the ARM TRACER campaign is to provide high temporal and spatial resolution observations of convective clouds in the Houston region, over a broad range of environmental and aerosol regimes. This proposal is in response to the call for studies that build upon the measurements that ARM will make for aerosol and cloud processes, with a focus on aerosol processes relevant to the formation and growth of atmospheric new particles, the influence of aerosol composition, mixing state, and physical properties on aerosol growth, aging, and removal processes, and aerosol-cloud interactions. This project will deploy a PI-developed instrument package during the Intensive Observation Period. The package includes aerosol instrumentation for size-resolved eddy-covariance particle flux measurement, refractory black carbon measurements, and a hygroscopicity tandem differential mobility analyzer. 
+

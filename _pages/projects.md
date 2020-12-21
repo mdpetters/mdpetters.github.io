@@ -1,10 +1,15 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: Ongoing research projects.
-nav: false
+description: 
+nav: true
 ---
+
+#### **Current Research Projects**
+
+<br>
+
 
 <div class="projects grid">
 
