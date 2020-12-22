@@ -55,7 +55,7 @@ nav: true
 - [Shweta Yadav](https://scholar.google.com/citations?user=PJjLMpQAAAAJ&hl=en) (Postdoctoral Fellow)
 - [Ankit Tandon](https://scholar.google.com/citations?user=sMMJZmEAAAAJ&hl=en) (Postdoctoral Fellow)
 - [Timothy Wright](https://scholar.google.com/citations?user=T4dPYAEAAAAJ&hl=en) (Postdoctoral Fellow)
-- [Juan James-Correa](https://scholar.google.com/citations?user=s9hGHV8AAAAJ&hl=en) (Postdoctoral Fellow)
+- [Juan James-Correa](https://orcid.org/0000-0002-5665-3575) (Postdoctoral Fellow)
 - [Nicholas Rothfuss](https://orcid.org/0000-0002-1495-1902) (PhD Student)
 - [Kyle Dawson](https://scholar.google.com/citations?user=FO_knmIAAAAJ&hl=en) (PhD Student)
 - [Timothy Wright](https://scholar.google.com/citations?user=T4dPYAEAAAAJ&hl=en) (PhD Student)
@@ -71,7 +71,7 @@ nav: true
 ### Undergraduate Alumni
 - Emily Morris
 - Travis Morton
-- John Hader 
+- [John Hader](https://scholar.google.com/citations?user=kC5e0l4AAAAJ&hl=en)
 - Danielle Dillane
 - Hanahmariam Tekleab
 - Mark Wu
