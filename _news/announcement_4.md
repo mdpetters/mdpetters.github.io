@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-01-09
+date: 2022-01-18
 inline: true
 ---
 
-Dr. Maksim Islam is joining our group as a postdoc. Welcome!
+Congratulations to Sabin Kasparoglu for publication of her paper in Hardware X.

@@ -1,12 +1,22 @@
 ---
 layout: page
-title: Your<br>Name
+title: Sundandan Mahant
 description: " "
-img: /assets/img/blank.png
-set: [""]
+img: /assets/img/mahant.jpg
 importance: 3
+set: [""]
 ---
 
-**We are are  looking for motivated undergraduate and graduate students to join our team. 
-Please don't hesitate to contact us for more information.**
+- Graduate Student: PhD Degree Program
+- Project: Laboratory Studies Investigating the Influence of Particle Diameter on Viscosit 
+- [Website](https://meas.sciences.ncsu.edu/people/smahant2/)
+
+#### Group Publications
+
+<div class="publications">
+{% for y in page.set %}
+  {% bibliography -f papers -q @*[title={{y}}]* %}
+{% endfor %}
+</div>
+
 

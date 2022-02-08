@@ -12,7 +12,7 @@ importance: 2
 - PI: Markus Petters
 - Source: National Science Foundation
 - Years: Jan 2021 -- December 2023
-- Graduate Students: **Your Name Here!**
+- Graduate Students: Sundandan Mahant
 - Undergraduate Students: **Your Name Here!**
 
 **Overview.** Atmospheric particles between 10 and 100 nm in diameter play a central role in atmospheric chemistry by providing surface and volume for multiphase reactions to proceed. In many environments these particles are crystalline or glassy solids. As particle size approaches the molecular scale, strong curvature of the particle air interface leads to a depression of the melting point, known as the Gibbs-Thompson effect. This proposal seeks to quantify how particle diameter influences the crystalline solid-liquid and amorphous solid-liquid phase transitions. Particle-dimers will be created through coagulation. The temperature required to induce particle coalescence will be measured as a function of particle diameter between 10 and 100 nm. This temperature corresponds to the melting of a semi-solid with viscosity of \sim10^{6} Pa s. The measurements will be used to constrain the temperature dependence of viscosity and the glass transition temperature of the particles. Investigated compositions will include single component model systems and multi-component model blends, mimicking common atmospheric aerosol. The main objective of the work is to quantify the Gibbs-Thompson effect for amorphous viscous or glassy particles.

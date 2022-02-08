@@ -1,34 +1,23 @@
 ---
 layout: page
 title: " "
-description: Toxicity of Ambient Sub-10 nm Particles
-img: /assets/img/map.png
-importance: 3
+description: Development of a New Methodology for Particle Turbulent Flux Retrievals using Remote Sensing Techniques
+img: /assets/img/lidar.png
+importance: 2
 
 ---
 
-#### **Investigation of the Toxicity of Sub-10 nm Particles on Bacterial Cells from Airborne Samples at Low Mass Concentration.**
+#### **Development of a New Methodology for Particle Turbulent Flux Retrievals using Remote Sensing Techniques**
 
-- PI: Markus Petters
-- Co-PIs: Nicholas Meskhidze and Ryan Paerl
-- Source: Center for Human Health and the Environment
-- Years: Dec 2020 -- December 2021
-- Undergraduate Students: **Your Name Here!**
+- PI: Nicholas Meskhidze, Co-PI: Markus Petters
+- Source: NASA
+- Years: Aug 2021 -- Aug 2023
+- Graduate Students: Ajmal Satheesh
 
-Health impacts are usually quantified in terms of exposure to mass concentrations of particulate matter with
-diameter ≤ 2.5 μm (PM2.5). Sub-10 nm particles contribute negligible mass to atmospheric PM2.5. Yet they may
-contribute strongly to the overall toxic dose delivered through the aerosol. The toxicity of sub-10 nm particles is
-higher when compared to particles of larger size with the same composition. Sub-10 nm particles are readily
-taken up by cells, can cross the skin barrier, air-blood barrier, and blood-brain barrier and in turn reach sensitive
-organs. However, the paucity of information about their abundance, morphology, and toxicity has hampered
-efforts to attribute their potential health effects with disease.
-
-We have recently identified substantial direct emissions of sub-10 nm particles in an urban environment and
-found that there are multiple temporally stable and spatially confined point sources within the city. It is unclear how
-the toxicity of environmental sub-10 nm particles differ from engineered nanoparticles, and how the toxicity might
-change upon release into the atmosphere. Current in in-vitro and in vivo exposure studies deliver milligrams of
-material. In contrast, ambient concentrations of sub-10 nm particles are on the order of ng m−3 of air, making
-collection of mg amounts unrealistic. In turn toxicology assessments through traditional methods are not possible.
-This proposal addresses this challenge. **The specific aim is to obtain preliminary data from new methods
-that can be used to evaluate the influence of sub-10 nm particles obtained from airborne samples at
-atmospheric concentrations on living cells.**
+In this project, we will take advantage of emerging active remote sensing
+approaches for the retrieval of vertical turbulent fluxes of particle mass and
+chemical composition proxies. This will be achieved by combining two existing
+remotely sensed instruments: a Doppler Lidar and the High Spectral Resolution
+Lidar (HSRL). The derived flux values will be compared to in situ measurements
+taken during the U.S. DOE Atmospheric Radiation Measurement (ARM) Field Campaign
+at the Southern Great Planes (SGP) site in Oklahoma.

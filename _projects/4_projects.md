@@ -3,7 +3,8 @@ layout: page
 title: " "
 description: T, RH, and composition dependence of SOA viscosity
 img: /assets/img/doe.png
-set: ["Toward closure between predicted and observed particle viscosity over a wide range temperature and relative humidity", "Predicting the influence of particle size on the glass transition temperature and viscosity of secondary organic material", "Characterization of a dimer preparation method for nanoscale organic aerosol","Volatility and Viscosity Are Correlated in Terpene Secondary Organic Aerosol Formed in a Flow Reactor", "A language to simplify computation of differential mobility analyzer response functions"]
+set: ["Open-hardware design and characterization of an electrostatic aerosol precipitator",
+"Toward closure between predicted and observed particle viscosity over a wide range of temperatures and relative humidity", "Predicting the influence of particle size on the glass transition temperature and viscosity of secondary organic material", "Characterization of a dimer preparation method for nanoscale organic aerosol","Volatility and Viscosity Are Correlated in Terpene Secondary Organic Aerosol Formed in a Flow Reactor", "A language to simplify computation of differential mobility analyzer response functions"]
 importance: 4
 
 ---
@@ -12,7 +13,7 @@ importance: 4
 
 - PIs (NC State): Markus Petters, Paul Ziemann (CU, Lead), Paul DeMott (CSU)
 - Source: Department of Energy
-- Years: 2017 -- 2021
+- Years: 2017 -- 2022
 - Graduate Students: Sabin Kasparoglu, Nicholas Rothfuss
 
 The groups of Ziemann (CU Boulder), Petters (NC State University), and DeMott (Colorado State University) 

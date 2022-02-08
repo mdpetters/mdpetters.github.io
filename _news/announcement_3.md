@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-07-31
+date: 2021-08-15
 inline: true
 ---
 
-Congratulations to Alyssa Zimmerman for having her M.S. thesis paper accepted for publication in the journal Atmospheric Environment.
+Welcome to Sundandan Mahant and Ajmal Satheesh to the research group!
