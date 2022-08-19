@@ -1,0 +1,10 @@
+# This site requires ruby 2.7 to build. It's easiest done in a 
+# container. Build the debian container and run it from the main
+# directory to build the page.
+
+podman build . -t mybox
+podman run -it --expose 4000 -p 4000:4000 -v $(pwd):/root:Z mybox
+
+cd /root
+bundle update
+bundle exec jekyll serve --force_polling -H 0.0.0.0

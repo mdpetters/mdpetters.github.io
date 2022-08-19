@@ -51,7 +51,9 @@ nav: true
 
 <br> 
 
-### Group Alumni
+
+### Recent Alumni
+- [Maksim Islam](https://scholar.google.com/citations?user=6lbAiFcAAAAJ&hl=en) (Postdoctoral Fellow)	
 - [Shweta Yadav](https://scholar.google.com/citations?user=PJjLMpQAAAAJ&hl=en) (Postdoctoral Fellow)
 - [Ankit Tandon](https://scholar.google.com/citations?user=sMMJZmEAAAAJ&hl=en) (Postdoctoral Fellow)
 - [Timothy Wright](https://scholar.google.com/citations?user=T4dPYAEAAAAJ&hl=en) (Postdoctoral Fellow)

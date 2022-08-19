@@ -3,7 +3,7 @@ layout: page
 title: Sabin Kasparoglu
 description: " "
 img: /assets/img/sabin_500.jpg
-set: ["Open-hardware design and characterization of an electrostatic aerosol precipitator","Toward closure between predicted and observed particle viscosity over a wide range of temperatures and relative humidity", "Predicting the influence of particle size on the glass transition temperature and viscosity of secondary organic material"]
+set: ["Experimental Determination of the Relationship Between Organic Aerosol Viscosity and Ice Nucleation at Upper Free Tropospheric Conditions","Open-hardware design and characterization of an electrostatic aerosol precipitator","Toward closure between predicted and observed particle viscosity over a wide range of temperatures and relative humidity", "Predicting the influence of particle size on the glass transition temperature and viscosity of secondary organic material"]
 importance: 1
 ---
 

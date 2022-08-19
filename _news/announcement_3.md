@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-08-15
+date: 2022-07-25
 inline: true
 ---
 
-Welcome to Sundandan Mahant and Ajmal Satheesh to the research group!
+Congratulations to Sabin Kasparoglu for publication of her paper on SOA ice nucleation in JGR.

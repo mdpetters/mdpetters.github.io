@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-01-18
+date: 2022-8-15
 inline: true
 ---
 
-Congratulations to Sabin Kasparoglu for publication of her paper in Hardware X.
+We welcome Elavarasi, Lintong, Tyas, Stephanie, and Jonah to join our group!

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Your<br>Name
+title: Elavarasi <br> Ravichandran
 description: " "
 img: /assets/img/blank.png
 set: [""]
-importance: 6
+importance: 5
 ---
 
-**We are are  looking for motivated undergraduate and graduate students to join our team. 
-Please don't hesitate to contact us for more information.**
+- Graduate Student: PhD Degree Program
+- Project: Eastern Pacific Cloud Aerosol Precipitation Experiment [(EPCAPE)](https://www.arm.gov/research/campaigns/amf2023epcape)
+- [Website](https://meas.sciences.ncsu.edu/people/eravich/)
 
