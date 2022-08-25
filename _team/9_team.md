@@ -2,7 +2,7 @@
 layout: page
 title: Stephanie<br>Bachman
 description: " "
-img: /assets/img/blank.png
+img: /assets/img/Steph.jpg
 set: [""]
 importance: 10
 ---

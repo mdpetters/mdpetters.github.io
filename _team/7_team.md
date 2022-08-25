@@ -2,7 +2,7 @@
 layout: page
 title: Jonah<br>Hazelwood
 description: " "
-img: /assets/img/blank.png
+img: /assets/img/Jonah.jpg
 set: [""]
 importance: 8
 ---

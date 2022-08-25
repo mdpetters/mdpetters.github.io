@@ -2,7 +2,7 @@
 layout: page
 title: Lintong<br>Cai
 description: " "
-img: /assets/img/blank.png
+img: /assets/img/Lintong.jpg
 set: [""]
 importance: 6
 ---

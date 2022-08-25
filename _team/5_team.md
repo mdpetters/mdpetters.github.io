@@ -2,7 +2,7 @@
 layout: page
 title: Elavarasi <br> Ravichandran
 description: " "
-img: /assets/img/blank.png
+img: /assets/img/Elavarasi.jpg
 set: [""]
 importance: 5
 ---
