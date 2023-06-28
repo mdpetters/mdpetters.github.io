@@ -1,7 +1,0 @@
----
-1.0 jekyll:~> 3.0,nokogiri:~> 1.8.2|checksum:bba7d451220492853aedddd913c129f7d4d97a6332c9b8a5c95ca7e0b8cabd7f,ruby:>= 2.3.0
-1.1.0.beta jekyll:~> 3.0,nokogiri:~> 1.8.2|checksum:3092092813977994e6123182d3b684f04bc677ff7984828676b881be87dcc406,ruby:>= 2.3.0,rubygems:> 1.3.1
-1.1.0 jekyll:~> 3.0,nokogiri:~> 1.8.2|checksum:18f91d3d72c440aa58f305c0c11e9b0b70696f6ee0ab31cddfeb218f454fd94a,ruby:>= 2.3.0
-1.1.1 jekyll:~> 3.0,nokogiri:~> 1.8.2|checksum:08ba338ab75ebbd5ab774fb42d725d65d239883c96de34c9395850091de841f7,ruby:>= 2.3.0
-1.2.0 jekyll:~> 3.0,nokogiri:~> 1.10.4|checksum:8e4225d41d37955faa91e4ad6e9c7070cbdfcbc792d03c29264ecd8024b1beb3,ruby:>= 2.3.0
-2.0.0 jekyll:< 5.0&>= 3.0,nokogiri:~> 1.10|checksum:6fb087f4eb47948d8004c687e085752446d2f583eaee983ceb03397f6a22e893,ruby:>= 2.3.0
