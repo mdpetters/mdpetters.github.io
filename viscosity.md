@@ -1,0 +1,15 @@
+#### Laboratory Studies Investigating the Influence of Particle Diameter on Viscosity
+
+- PI: Markus Petters
+- Source: National Science Foundation
+- Graduate Students: Sundandan Mahant
+
+**Overview.** Atmospheric particles between 10 and 100 nm in diameter play a central role in atmospheric chemistry by providing surface and volume for multiphase reactions to proceed. In many environments these particles are crystalline or glassy solids. As particle size approaches the molecular scale, strong curvature of the particle air interface leads to a depression of the melting point, known as the Gibbs-Thompson effect. This proposal seeks to quantify how particle diameter influences the crystalline solid-liquid and amorphous solid-liquid phase transitions. Particle-dimers will be created through coagulation. The temperature required to induce particle coalescence will be measured as a function of particle diameter between 10 and 100 nm. This temperature corresponds to the melting of a semi-solid with viscosity of 10^6 Pa s. The measurements will be used to constrain the temperature dependence of viscosity and the glass transition temperature of the particles. Investigated compositions will include single component model systems and multi-component model blends, mimicking common atmospheric aerosol. The main objective of the work is to quantify the Gibbs-Thompson effect for amorphous viscous or glassy particles.
+
+**Intellectual Merit.** Knowledge of the particle phase state is critical for quantifying the chemistry occurring in the bulk or at the interface of particles. The critical diameter where nanoparticles transition from glass to liquid must be known. To date, no studies have systematically evaluated the Gibbs-Thompson effect for viscous or amorphous glassy solid particles, which are commonly observed in the atmosphere. The hypothesis of this work is that the glass transition temperature, and the temperature dependence of viscosity, mirrors the behavior predicted by the Gibbs-Thompson equation for crystalline substances. An inverse proportionality between the particle diameter and glass-transition temperature is expected. The measurements involving multi-component blends will also contribute toward the validation of models that predict the glass-transition temperature and fragility of these systems. Although modeling frameworks have advanced in this area, experimental data remain scarce. This proposal will produce new data and use these data to test existing state-of-the science predictions of particle phase state.
+
+**Relevant Publications**
+
+Mahant, S., Iversen, E. M., Kasparoglu, S., Bilde, M., and Petters, M. D.: Direct measurement of the viscosity of ternary aerosol mixtures, Env. Sci Atmos, 3, 595–607, https://doi.org/10.1039/D2EA00160H, 2023.
+
+Petters, M. D. and Kasparoglu, S.: Predicting the influence of particle size on the glass transition temperature and viscosity of secondary organic material, Sci. Rep., 10, 15170, https://doi.org/10.1038/s41598-020-71490-0, 2020.
