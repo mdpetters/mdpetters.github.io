@@ -1,13 +1,12 @@
+~~~
+<ul>
+  <li><a class="active" href="/">Home</a></li>
+  <li><a href="/projects/">Projects</a></li>
+  <li><a href="/team/">Group</a></li>
+</ul>
+~~~
 
-
-
-# Home
-
-<!-- ~~~
-<div>
-<img src="../assets/banner.jpg" alt="Banner"  >
-</div>
-~~~ -->
+# 
 
 ![](../assets/banner.jpg)
 

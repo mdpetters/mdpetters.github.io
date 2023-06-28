@@ -325,7 +325,7 @@ html {
  */
 
 .content {
-  padding-top: 4rem;
+  padding-top: 1rem;
   padding-bottom: 4rem;
 }
 
@@ -376,5 +376,51 @@ html {
 .card .th-name {
   font-size: 13px;
   color: #000;
-} */
+} 
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: white;
+  background-color: #003DA5;
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:link {
+  color: white;
+}
+
+li a:visited {
+  color: white;
+}
+
+
+li a.passive {
+  background-color: #003DA5;
+  color: white;
+}
+
+li a.active {
+  background-color: #FFB81C;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #003DA5;
+  color: white;
+}
