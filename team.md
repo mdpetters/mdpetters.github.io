@@ -29,7 +29,7 @@
 </div>
 </a>
 
-<a href="https://orcid.org/0009-0009-1110-5573"  rel="noopener noreferrer" title="Hello">    
+<a href=""  rel="noopener noreferrer" title="Hello">    
 <div class="card">
 <img src="../assets/Lintong.jpg" style="width:100%;margin:0px 0px">
   <div class="container1">
