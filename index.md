@@ -2,6 +2,7 @@
 <ul>
   <li><a class="active" href="/">Home</a></li>
   <li><a href="/projects/">Projects</a></li>
+  <li><a href="/teaching/">Teaching</a></li>
   <li><a href="/team/">Group</a></li>
 </ul>
 ~~~

@@ -1,31 +1,4 @@
 /*
- *                        ___
- *                       /\_ \
- *  _____     ___     ___\//\ \      __
- * /\ '__`\  / __`\  / __`\\ \ \   /'__`\
- * \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
- *  \ \ ,__/\ \____/\ \____//\____\ \____\
- *   \ \ \/  \/___/  \/___/ \/____/\/____/
- *    \ \_\
- *     \/_/
- *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/poole.
- */
-
-
-/*
- * Contents
- *
- * Body resets
- * Custom type
- * Messages
- * Container
- * Masthead
- * Posts and pages
- * Pagination
- * Reverse layout
- * Themes
  */
 
 
@@ -358,12 +331,31 @@ html {
   /* height: 200px; */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  margin-bottom: 1em;
+  margin-bottom: 0.8em;
   margin-left: 0em;
   margin-right: 0.8em;
   /* padding: 0.3em; */
   border-radius: 1px;
   position: relative;
+}
+.card1 {
+  width: 208px;
+  /* height: 100px; *1/ */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  margin-bottom: 0.8em;
+  margin-left: 0em;
+  margin-right: 0.8em;
+  /* padding: 0.3em; */ 
+  border-radius: 1px; 
+  position: relative;
+}
+
+.container2 {
+  font-size:10pt;
+  line-height: 1.1;
+  text-indent: 0%;
+  padding: 10px 10px 0px 15px;
 }
 
 .container1 {
