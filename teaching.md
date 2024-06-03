@@ -24,9 +24,20 @@
 </div>
 </div>
 </a>
+
+<div class="card1">
+<div class="container2">
+<b> Advanced Air Pollution Control and Engineering </b> <br> <br>
+<small> Covers principles necessary to understand the atmospheric behavior of air pollutants. Topics include fundamental processes and the formation and fate of aerosols.</small> <br> <br>
+</div>
+<div class="container1">
+<a href="https://mdpetters.github.io/cee233/"  rel="noopener noreferrer">    
+<p>CEE 233</p> 
+</div>
+</div>
+</a>
 </div>
 ~~~
-
 
 # NC State University (2009-2023)
 ~~~

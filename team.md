@@ -21,20 +21,11 @@
 </div>
 </a>
 
-<a href="https://orcid.org/0009-0009-1110-5573"  rel="noopener noreferrer" title="Hello">    
+<a href="https://scholar.google.com/citations?user=aG73buYAAAAJ" rel="noopener noreferrer" title="Hello">    
 <div class="card">
-<img src="../assets/Elavarasi.jpg" style="width:100%;margin:0px 0px">
+<img src="../assets/Ella.jpg" style="width:100%;margin:0px 0px">
   <div class="container1">
-  <p>Elavarasi Ravichandran</p> 
-  </div>
-</div>
-</a>
-
-<a href="https://profiles.ucr.edu/app/home/profile/lcai031"  rel="noopener noreferrer" title="Hello">    
-<div class="card">
-<img src="../assets/Lintong.jpg" style="width:100%;margin:0px 0px">
-  <div class="container1">
-  <p>Lintong Cai</p> 
+  <p>Ella Ivanova (Postdoctoral) </p> 
   </div>
 </div>
 </a>
@@ -43,10 +34,30 @@
 <div class="card">
 <img src="../assets/mahant.jpg" style="width:100%;margin:0px 0px">
   <div class="container1">
-  <p>Sunandan Mahant</p> 
+  <p>Sunandan Mahant (PhD)</p> 
   </div>
 </div>
 </a>
+
+
+<a href="https://orcid.org/0009-0009-1110-5573"  rel="noopener noreferrer" title="Hello">    
+<div class="card">
+<img src="../assets/Elavarasi.jpg" style="width:100%;margin:0px 0px">
+  <div class="container1">
+  <p>Elavarasi Ravichandran (PhD)</p> 
+  </div>
+</div>
+</a>
+
+<a href="https://profiles.ucr.edu/app/home/profile/lcai031"  rel="noopener noreferrer" title="Hello">    
+<div class="card">
+<img src="../assets/Lintong.jpg" style="width:100%;margin:0px 0px">
+  <div class="container1">
+  <p>Lintong Cai (PhD)</p> 
+  </div>
+</div>
+</a>
+
 
 <a href="../recruit/"  rel="noopener noreferrer" title="Hello">    
 <div class="card">
