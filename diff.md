@@ -208,7 +208,7 @@ Performance of the uncoated denuder obviously depends on the physico-chemical pr
 
 | $D_{initial}\; (nm)$ | $ D_{final}\; (nm)$ | $N\;(cm-3)$ | $T_{cold}\; (^\circ C)$ | $T_{warm}\; (^\circ C)$ | $D_{tube}\; (inch)$ |  
 | --------------|--------------|------|----|----|-----|
-| 100           |  50          | 100  | 20 | 50 | 3/8 |
+| 200           |  50          | 100  | 20 | 50 | 3/8 |
 
 Table 1 gives an example setup for an experiment. The spreadsheet is used to
 evaluate the diffusion coefficient, $Y$ and the saturation ratios $S$ in the warm and cold section.
