@@ -76,9 +76,13 @@
 ~~~
 <div class="cards">
 
-<a href="https://cif-cold-stage.github.io/server/"  rel="noopener noreferrer" title="Hello">    
+<a href="https://notebooks.engr.ucr.edu/"  rel="noopener noreferrer" title="Hello">    
 <div class="card">
-<img src="../assets/Jupyter_logo.png" style="width:86%;margin:0px 20px">
+<img src="../assets/logo_white_contour.svg" style="width:72%; margin:0px 25px">
+<img src="../assets/logo_white_contour.svg" style="width:72%; margin:0px 25px">
+<img src="../assets/logo_white_contour.svg" style="width:72%; margin:0px 25px">
+<img src="../assets/logo_white_contour.svg" style="width:72%; margin:0px 25px">
+<img src="../assets/logo_white_contour.svg" style="width:72%; margin:0px 25px">
   <div class="container1">
   <p>Educational Notebooks</p> 
   </div>
