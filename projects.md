@@ -8,7 +8,8 @@
 <br>
 ~~~
 
-#
+## Current 
+
 ~~~
 <div class="cards">
 
@@ -29,13 +30,6 @@
   </div>
 </div>
 
-<a href="../TRACER/"  rel="noopener noreferrer" title="Hello">    
-<div class="card">
-<img src="../assets/TRACER.png" style="width:100%;margin:0px 0px">
-  <div class="container1">
-  <p>Field Campaign: TRACER</p> 
-  </div>
-</div>
 
 
 <a href="../mapping/"  rel="noopener noreferrer" title="Hello">    
@@ -120,4 +114,17 @@
 
 
 </div> 
+~~~
+
+
+## Recently Completed 
+
+~~~
+<a href="../TRACER/"  rel="noopener noreferrer" title="Hello">    
+<div class="card">
+<img src="../assets/TRACER.png" style="width:100%;margin:0px 0px">
+  <div class="container1">
+  <p>Field Campaign: TRACER</p> 
+  </div>
+</div>
 ~~~

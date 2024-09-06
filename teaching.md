@@ -15,6 +15,19 @@
 
 <div class="card1">
 <div class="container2">
+<b> Environmental Engineering Laboratory </b> <br> <br>
+<small> Consists of laboratory exercises in environmental engineering. Emphasizes experimental design, analysis of results, and preparation of engineering reports. </small> <br> <br>
+</div>
+<div class="container1">
+<a href="https://mdpetters.github.io/enve160b/"  rel="noopener noreferrer">    
+<p>ENVE 160B</p> 
+</div>
+</div>
+</a>
+
+
+<div class="card1">
+<div class="container2">
 <b> Advanced Engineering Computation </b> <br> <br>
 <small> Develops problem-solving techniques for basic engineering systems including heat and mass transfer, coupled reactions, fluid flow potential, and control. </small> <br> <br>
 </div>
