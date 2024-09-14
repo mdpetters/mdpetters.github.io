@@ -1,34 +1,34 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-	</head>
+		<head>
+				<meta name="viewport" content="width=device-width, initial-scale=1">
+		</head>
 
-	<body>
-<div id="div1">
-</div>
-		<script>
-		async function read() {
-		    fetch("https://notebooks.engr.ucr.edu/figure/")
-		    <!-- fetch("127.0.0.1:8000/figure/") -->
-						.then(function(response) {
-										return response.text()
-						})
-						.then(function(html) {
-										var parser = new DOMParser();
-										if (html != null) {
+		<body>
+				<div id="div1">
+				</div>
+				<script>
+						async function read() {
+								fetch("https://notebooks.engr.ucr.edu/figure/")
+										<!-- fetch("127.0.0.1:8000/figure/") -->
+										.then(function(response) {
+												return response.text()
+										})
+										.then(function(html) {
+												var parser = new DOMParser();
+												if (html != null) {
 														var doc = parser.parseFromString(html, "text/html");
 														console.log(doc.body);
 														const element = document.getElementById("div1");
 														element.replaceChildren(doc.body);
-								    }
-						})
-						.catch(function(err) {  
-										<!-- console.log("Failed to fetch page: ", err); -->  
-						});
-}
+												}
+										})
+										.catch(function(err) {  
+												<!-- console.log("Failed to fetch page: ", err); -->  
+										});
+						}
 
-setInterval(read, 5000)
-		</script>
-	</body>
+						setInterval(read, 5000)
+				</script>
+		</body>
 </html>
