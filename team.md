@@ -107,23 +107,13 @@ Students working with our group on current projects but finishing their degree a
 </div>
 </a>
 
-
-<a href="https://meas.sciences.ncsu.edu/people/ttpujias/" rel="noopener noreferrer" title="Hello">    
-<div class="card">
-<img src="../assets/blank.png" style="width:100%;margin:0px 0px">
-  <div class="container1">
-  <p>Tyas Pujiastuti</p> 
-  </div>
-</div>
-</a>
-
-
 </div>
 ~~~
 
 
 ## Group Alumni
 ~~~
+&#8226 Tyas Pujiastuti (MS Student) <br>
 &#8226 <a href="https://orcid.org/0000-0003-1924-0920"  rel="noopener noreferrer" title="Hello"> Sabin Kasparoglu </a>  (PhD Student and Postdoctoral Fellow) <br> 
 &#8226 <a href="https://scholar.google.com/citations?user=6lbAiFcAAAAJ&hl=en"  rel="noopener noreferrer"> Maksim Islam </a> (Postdoctoral Fellow) <br>	
 &#8226 <a href="https://scholar.google.com/citations?user=BG_7w6MAAAAJ&hl=en"  rel="noopener noreferrer"> Shweta Yadav </a> (Postdoctoral Fellow) <br>	
