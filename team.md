@@ -58,6 +58,14 @@
 </div>
 </a>
 
+<a href="https://scholar.google.com/citations?hl=en&user=vQ8dvY8AAAAJ"  rel="noopener noreferrer" title="Hello">    
+<div class="card">
+<img src="../assets/Ankita.jpg" style="width:100%;margin:0px 0px">
+  <div class="container1">
+  <p>Ankita Malu (PhD)</p> 
+  </div>
+</div>
+</a>
 
 <a href="../recruit/"  rel="noopener noreferrer" title="Hello">    
 <div class="card">

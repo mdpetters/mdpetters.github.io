@@ -11,7 +11,7 @@
 
 ![](../assets/banner.jpg)
 
-Welcome to the home of the **Petters Aerosol Group** within the department of [Chemical and Environmental Engineering](https://www.cee.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). We study the physcical and chemical properties of particles between 0.01 and 10 µm with a focus on understanding phase transitions. Our work spans instrument development, laboratory measurements, field observations, and process-level model development.
+Welcome to the home of the **Petters Aerosol Group** within the department of [Chemical and Environmental Engineering](https://www.cee.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). We study the physiccal and chemical properties of particles between 0.002 and 5 µm with a focus on understanding phase transitions. Our work spans instrument development, laboratory measurements, field observations, and process-level model development.
 
 **Please contact me if you are interested in getting involved in research. We are currently looking for motivated PhD students and postdocs to join the team.**
 
