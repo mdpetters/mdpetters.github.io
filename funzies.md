@@ -1,6 +1,3 @@
-> [!INFO]
-> Funzies
-
 # Event Announcements
 - [All Events](https://allevents.in/riverside/inland%20empire#search)
 - [Day Trippen](https://www.daytrippen.com/southern-california-events/)
